@@ -1,0 +1,11 @@
+train: ../YOLO-Coco-Dataset-Custom-Classes-Extractor/dataset/train/images
+val: ../YOLO-Coco-Dataset-Custom-Classes-Extractor/dataset/test/images
+
+# Classes
+names: 
+  0: Employé
+  1: Chaise
+  2: Bureau
+  3: Clavier
+  4: Laptop
+  

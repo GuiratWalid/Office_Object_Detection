@@ -1,0 +1,9 @@
+*.mp4
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.txt
+*.rar
+*.zip
+YOLO-Coco-Dataset-Custom-Classes-Extractor/instances_train2017.json
